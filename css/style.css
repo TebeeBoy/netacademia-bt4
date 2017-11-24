@@ -51,4 +51,9 @@ body {
 
   body{
      font-family: 'Roboto', sans-serif;
+  
+}
+/* Home Page elements*/
+.home-media-image {
+  width: 25%;
 }
